@@ -12,6 +12,14 @@ Large type any text you want to.
   Quicksilver.large_type "Your BIG text here"
 ```
 
+Installation
+============
+
+``` bash
+  cd ~/Library/Application\ Support/Keymando/Plugins/
+  git clone git://github.com/libin/Quicksilver.git quicksilver
+```
+
 Using with Keymando
 =======
 
